@@ -1,0 +1,23 @@
+# Sur
+- Riograndense Republic as puppet of Brazil, can become independent; has good relations with San Marco
+- Juliana Republic secedes by event if it becomes independent, and can later be annexed thereby
+- Backstory: Garibaldi is more successful in the Ragamuffin War, with additional support from Uruguay and Paraguay. Their navy is used more conservatively and is not destroyed, in fact weakening Brazil's; they defend Laguna, though the Juliana Republic does collapse and is absorbed by Rio Grande. Their ranks are worn down successively, though, and they're convinced to sign a treaty granting them autonomy but not independence. Notably, it abolishes slavery before Brazil, which still has it as of 1898 (given a more conservative parliament not passing the Lei Aurea). Therefore, many slaves escape south and it has a burgeoning black population, granting additional manpower and stability. 
+- Lei Aurea: Instead of going to Europe and leaving Isabel as regent, he sends her and stays at home. Naturally conservative, he recognizes the weakness of his position and modifies the original law to take effect a decade later, with a ban on importation until then. Gameplay effects:
+	- Brazil starts with the national spirit "Slavery Pending Abolition"
+		- reduced manpower, -10% base stability, stability ticking down, reduced PP, faster construction, increased factory output
+	- on 13 May 1898, all slaves are freed. This removes "Slavery Pending Abolition" and replaces it with "Legacy of Slavery" and "Recent Abolition" (the latter for three years)
+	The first grants
+		Reduced manpower (new freedmen are reluctant to serve the state)
+		Increased growth
+		Reduced stability (but not ticking down)
+		Increased civilian factories (freedmen are less able to work and contribute to the economy)
+		Increases liberal, syndicalist, and imperial-collectivist drift
+	The second
+		increases growth even more
+		Improves stability
+		increases reactionary and nationalist drift
+- Focuses to implement reparations
+
+# Mazzini as prominent San Marcese politician
+
+# Papal States can form the Roman Republic (19th century)

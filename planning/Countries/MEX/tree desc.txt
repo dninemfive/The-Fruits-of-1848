@@ -1,0 +1,74 @@
+## Palacio's Successor
+# Reqs
+- Palacio is dead
+# Effects
+- Political Power -75
+
+## Juarez' Legacy
+# reqs
+- Palacio's Successor
+# effects
+- liberal popularity increases by 1
+
+## Plan of Tlacotalpan
+# reqs
+- Palacio's Successor
+- Porfirio Diaz is alive
+# effects
+- MEX gets event "Plan of Tlacotalpan"
+	Options:
+		Accept Diaz' Demands
+			Porfirio Diaz takes power in Mexico. 
+			Gains national spirit "Porfiriato", which grants:
+				Market Liberal drift +.02
+				Imperial-Collectivist drift +.01
+				Syndicalist drift +.01
+				Construction speed +10%
+				Weekly stability -.01%
+				Political power +.5
+		Refuse
+			A civil war begins.
+
+## Conservative Restoration
+# reqs
+- Palacio's Successor
+# effects
+- Conservative popularity increases by 2
+- Progressive popularity decreases by 1
+
+## Imperial Ambitions
+# reqs
+- Conservative Restoration
+# effects
+- an Absolutist regency council takes over the country
+- if any liberal ideology has more than 40% popularity, a civil war begins
+- Gains the spirit "Imperial Excitement" for 365 days
+	Absolutist drift +.02
+	Imperial-Collectivist drift +.02
+	Conservative drift +.04
+	Nationalist drift +.02
+- Gains the spirit "Regency Council"
+	Base Stability -5%
+	Political Power per day -1
+
+## A Mexican
+# reqs
+- Imperial Ambitions
+# Effects
+- The Absolutist party becomes the House of Iturbide
+- Agustin II de Iturbide y Green becomes Emperor of Mexico
+- Conservative popularity increases by 1
+- Absolutist popularity increases by 3
+- Imperial-Collectivist popularity increases by 1
+- Nationalist popularity increases by 2
+
+## A Frenchman
+# reqs
+- Imperial Ambitions
+# Effects
+- The Imperial-Collectivist party takes power
+- It is renamed to House of Bonaparte
+- Napoleon V Victor becomes Emperor of Mexico
+- Mexico gains the spirit "Legitimacy Issues," which grants:
+	Daily PP -.5
+	Base stability -5%

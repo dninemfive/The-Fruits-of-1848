@@ -1,0 +1,49 @@
+Indev
+1. Set up map (use HGO as base)
+	Terrain
+	Provinces
+	States
+2. Polish map (combine superfluous states &c)
+3. Create new tags
+Alpha
+1. Assign states to tags
+2. Generic focus tree
+3. Tech tree
+Beta
+1. Detailed focus trees for important tags
+	Germany
+	France
+	UK
+	Russia
+	Italy (shared, some uniques)
+		San Marco
+		Papal States
+		Naples
+		Sardinia
+		Sicily
+	USA
+	Mexico
+	Brazil
+	China
+	Japan
+2. Flavor - events and spirits
+3. Flags
+4. Leader icons if possible
+Release
+1. Focus trees for semi-major nations
+	Spain
+	Hungary
+	Ottomans
+	Yugoslavia
+	Confederacy
+	Scandinavia
+2. Focus trees for minor and released nations
+	Bohemia-Moravia
+	Ukraine
+	Poland
+	Norway
+	Finland
+	'stans (shared)
+	Netherlandses
+	Colombia
+	Haiti

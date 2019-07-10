@@ -1,0 +1,2 @@
+# The Fruits of 1848
+Alt-history mod for Hearts of Iron IV (and maybe Vicky II later). Set in 1898, 50 years after the Spring of Nations successfully upended the old order in Europe, and concerned with the growing conflict between liberalism and conservatism, as well as rising radical ideologies.
