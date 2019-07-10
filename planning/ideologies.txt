@@ -1,0 +1,35 @@
+## Ver3
+# Liberal
+- Market Liberal: Basically libertarian pro-market shit. Usually more socially conservative than social liberals but not always.
+	Examples: Germany, Bohemia-Moravia, Romansh Republic, San Marco, Netherlands, Japan
+- Social Liberal: generic liberals
+	Examples: Brazil, Mexico, Centroamerica
+- Progressive: Anti-trust people like Teddy Roosevelt. Still in favor of free markets, more in favor of equality than most
+	Examples: US (Republican Party, ruling)
+
+# Radical
+- Populist: anti-free market pseudo-mercantilists wanting government intervention for the poor but still in favor of democracy. Like succdems.
+	Examples: Popular in the US, around 10%. Fairly common as a reaction to liberal gov'ts, especially market liberals. Not in power anywhere as of 1898.
+- Syndicalist: traditional communists ITTL. Less authoritarian but want local central planning and strongly against any kind of markets. Not always democratic, but not necessarily undemocratic either.
+	Examples: Basque Commune. Minority party in France, somewhat popular in Spain. 
+- Imperial-Collectivist: Basically Stalinism/Maoism without the inherent discomfort with following a paternal figure. Totalitarian parternal autocrats with a strong redistributionist mindset.
+	Examples: France and its puppets, with strong popularity in Brazil, China, the Ottoman Empire, and other empires
+
+# Conservative
+- Absolutist: Favor a non-constitutional monarchy, strongly mercantilist but not collectivist. Usually semi-totalitarian but less so compared to 
+	Examples: Ottoman Empire, Hungary, China, Ethiopia, Siam, Spain, slim plurality in Russia. Semi-popular in all empires but less so in smaller monarchies and rare among republics (except the CSA)
+- Nationalist: Proto-fascists. Sometimes indigenous nationalists, but usually minority rule. 
+	Examples: CSA, Ireland, Congo Free State. Popular among both states of the Spring of Nations and the few remaining indigenously-ruled communities.
+- Conservative: Fairly mercantilist, but still in favor of democracy and internal free markets. Vaguely support increased aristocratic/monarchist power.
+	Examples: UK, Portugal, Yugoslavia, Poland, Kingdom of the Netherlands, Naples, Greece, Chile, fairly popular in the US (Democratic Party). 
+
+# Theocratic
+- Dominionist: Christian theocracy, usually conservative.
+	Examples: Papal States, popular in the CSA.
+- Islamist: Islamist theocracy, very conservative. 
+	Examples: Popular in the Ottoman Empire, Arabia, Afghanistan, the 'stans, and Persia, but not in power at game start.
+- Theocracy //paired with a national spirit for the religion determining relations
+	Examples: Popular in Kurdistan, the British Raj, Siam, and Japan. Not in power at game start, but is the ruling party of the Matebeland revolt.
+
+# Misc
+- Military Junta: used for events. Not popular or in power anywhere.

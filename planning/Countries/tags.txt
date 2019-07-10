@@ -1,0 +1,135 @@
+ACR - Acre
+AFG - Afghanistan	""
+AFR - Afrique Francais
+ALA - Alaska Ter.
+ARA - Arabia
+ARG - Argentina		""
+AUS - Australia		""
+BAH - Bahrain
+BAL - Baltic Duchy
+BCG - Belgian Congo
+BEC - Bechuanaland
+BHU - Bhutan		""
+BLR - White Ruthenia	Belarus
+BOL - Bolivia		""
+BRA - Brazil		""
+BRI - Britain
+BRU - Brunei
+BSQ - Basque Country	
+BUK - Bukhara
+BUL - Bulgaria		""
+CAN - Canada		""
+CAU - Caucasia
+CEN - Centroamerica
+CHI - Qing Empire	China
+CHL - Chile		""
+CIR - Circassia
+CRE - Crete
+CSA - CSA		""
+CZE - Bohemia-Moravia	Czechoslovakia
+DAN - Danzig
+DER - Dervishes		
+ECU - Ecuador		""
+EGY - Egypt		""
+ENG - England		Britain		Used for british breakup
+ERI - Eritrea
+ETH - Abyssinia		Ethiopia
+ETU - Xinjiang
+FIN - Finland		""
+FRA - France		""
+FRI - French Indochina
+GAL - Galicia-Ruthenia
+GEL - Geledi
+GER - Germany		""
+GRA - Granada (col.)
+GRE - Greece		""
+GRI - Griqualand
+GYA - Guyana		""
+HAI - Haiti		""
+HAS - Hashemite Arabia
+HAW - Hawaii
+HOB - Hobyo
+HOL - Netherlands	Holland
+HUN - Hungary		""
+IOA - Ioannina
+IRE - Ireland		""
+JAP - Japan		""
+KAM - Kamerun
+KEN - Kenya Prot.
+KHI - Khiva
+KOK - Kokand
+KOR - Korea		""
+KUR - Kurdistan
+KUW - Kuwait
+LIB - Liberia		""
+MAJ - Majeerteen
+MAN - Manchukuo		""
+MAT - Matebeland
+MEX - Mexico		""
+MOG - Mogadishu
+MOL - Moldavia		Moldova
+MON - Mongolia		""
+MOR - Morocco		""
+NAP - Naples
+NEP - Nepal		""
+NEU - Neuguinea
+NME - New Mexico Ter.
+NRD - Northern Rhodesia
+NYA - Nyasaland
+NZL - New Zealand	""
+OFS - Orange Free State
+OKL - Oklahoma Ter.
+OMA - Oman		""
+OST - Ostafrika
+OTO - Ottoman Empire
+PAP - Papal States
+PAR - Paraguay		""
+PBL - Peru-Bolivia
+PER - Peru		""
+PER - Peru		""
+PHI - Philippines	""
+PIE - Piedmont
+POL - Poland		""
+POR - Portugal		""
+PRA - Portuguese Africa
+PRC - ComChina		""
+QAT - Qatar
+RAJ - British Raj	""
+RMS - Romani
+ROC - Republic of China	China
+ROM - Romania		""
+RUA - Ruanda-Urundi
+RUS - Russia
+SAF - South Africa	""
+SAL - Salonica
+SAM - Samos
+SAR - Sardinia
+SAU - Saudi Arabia	""
+SCA - Scandinavia
+SCU - Scutari
+SHA - Shanghai
+SIA - Siam
+SIC - Sicily
+SIK - Sikkim
+SMA - San Marco
+SPA - Spain		""
+SRD - Southern Rhodesia
+SRW - Sarawak
+STR - Straits Settlements
+SUL - Sulu
+SWA - Sudwestafrika
+SWZ - Swaziland
+TIB - Tibet		""
+TOG - Togoland Prot.
+UGA - Uganda Prot.
+UKR - Ukraine
+URU - Uruguay		""
+USA - United States	""
+VEN - Venezuela
+VOC - Kingdom of NL
+VRY - Vryheid
+WAL - Wallonia
+YUG - Yugoslavia	""
+ZAN - Zanzibar
+ZAR - South African Republic
+ZUL - Zulu
